@@ -1,4 +1,4 @@
-# Zonohedral approximation of Spherical Structuring Element for Volumetric Morphology
+# Zonohedral Approximation of Spherical Structuring Element for Volumetric Morphology
 Code for the SCIA19 paper on zonohedral approximations of spherical structuring elements.
 
 What is included
