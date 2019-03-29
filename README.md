@@ -17,6 +17,8 @@ Thus, you may not have to build anything. Instead just:
 * Place the (lib)pygorpho files in the python folder (or somewhere Python can find them).
   Alternatively, the library will look for them at the path given by the `PYGORPHO_PATH` environment variable.
 
+NOTE: The python code was built with CUDA 10.0 and the MATLAB code was built with CUDA 9.0.
+
 It that doesn't work, then...
 
 ## How to build
