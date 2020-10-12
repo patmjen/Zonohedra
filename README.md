@@ -2,13 +2,20 @@
 
 Code for the SCIA19 paper on zonohedral approximations of spherical structuring elements. Paper can be found [here](http://orbit.dtu.dk/files/172879029/SCIA19_Zonohedra.pdf).
 
-**UPDATE:** This code has now been published as a Python package:
+**UPDATE:** This code has now been published as a Python and MATLAB package.
 
+**Python:**
 * **PyPI**: [pypi.org/project/pygorpho](https://pypi.org/project/pygorpho/)
 * **GitHub**: [github.com/patmjen/pygorpho](https://github.com/patmjen/pygorpho)
 * **Documentation**: [pygorpho.readthedocs.io](https://pygorpho.readthedocs.io)
 
-The package includes the GPU morphology code for dilation/erosion and ways to easily use the sperical structuing element approximation.
+**MATLAB:**
+* **GitHub**: [github.com/patmjen/mexgorpho](https://github.com/patmjen/mexgorpho)
+
+**CUDA backend:**
+* **GitHub**: [github.com/patmjen/gorpho](https://github.com/patmjen/gorpho)
+
+The packages includes the GPU morphology code for dilation/erosion and ways to easily use the sperical structuing element approximation.
 
 ## What is included
 
